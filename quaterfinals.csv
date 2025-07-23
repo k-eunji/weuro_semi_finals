@@ -1,0 +1,31 @@
+Round,Date,Time,Venue,City,GrassType,HomeTeam,AwayTeam,HomeGoals,AwayGoals,HomeShots,AwayShots,HomeShotsOnTarget,AwayShotsOnTarget,HomexG,AwayxG,HomeBigChances,AwayBigChances,HomePossession(%),AwayPossession(%),HomePasses(%),AwayPasses(%),HomeConer,AwayConer,HomeYellow,AwayYellow,HomeRed,AwayRed,HomeFouls,AwayFouls,HomeTackles(%),AwayTackles(%),HomeClearances,AwayClearances,HomeInterceptions,AwayInterceptions,HomeErrorsLeadingtoShot,AwayErrorsLeadingtoShot,HomeErrorsLeadingtoGoal,AwayErrorsLeadingtoGoal,HomeSaves,AwaySaves,HxGOTfaced,AxGOTfaced,HGoalsprevented,AGoalsprevented
+1R,02-07-2025,18:00,Arena Thun,Thun,art,Iceland,Finland,0,1,13,16,4,4,1.49,0.82,1,0,45,55,69,79,5,6,2,1,1,0,8,5,57,60,18,45,8,1,0,0,0,0,3,4,0.96,0.46,-0.04,0.46
+1R,02-07-2025,21:00,St. Jakob-Park,Basel,hyb,Switzerland,Norway,1,2,17,8,7,3,0.97,1.78,2,4,55,45,81,73,7,3,1,1,0,0,8,11,67,67,21,19,7,3,0,2,1,0,1,6,1.26,0.61,0.26,-0.39
+1R,03-07-2025,18:00,Stade de Tourbillon,Sion,nat,Belgium,Italy,0,1,10,17,2,7,0.73,1.41,0,1,53,47,83,79,4,5,1,3,0,0,14,8,71,54,15,22,6,9,0,0,0,0,6,2,1.88,0.67,1.19,0.43
+1R,03-07-2025,21:00,Stadion Wankdorf,Bern,art,Spain,Portugal,5,0,22,7,9,1,4.2,0.33,6,0,71,29,88,70,5,9,0,0,0,0,11,5,44,65,12,33,11,12,0,2,0,0,1,4,0.49,4.84,0.49,-0.16
+1R,04-07-2025,18:00,Stade de Gen?ve,Geneva,hyb,Denmark,Sweden,0,1,10,19,4,4,0.48,1.61,0,1,42,58,65,74,4,8,1,0,0,0,12,8,46,64,41,17,6,7,1,0,0,0,3,4,0.95,0.18,-0.05,-0.18
+1R,04-07-2025,21:00,Arena St.Gallen,St.Gallen,nat,Germany,Poland,2,0,25,10,6,2,3.29,1.03,4,1,71,29,87,61,7,4,0,2,0,0,8,6,81,52,13,28,6,10,1,0,0,0,2,4,0.81,1.35,0.81,-0.65
+1R,05-07-2025,18:00,Allmend Stadion Luzern,Lucerne,nat,Wales,Netherlands,0,3,5,19,0,7,0.17,1.47,0,6,33,67,67,87,4,4,1,0,0,0,5,8,77,67,35,16,5,7,3,0,0,0,4,0,2.53,0,-0.47,0
+1R,05-07-2025,21:00,Stadion Letzigrund,Zurich,nat,France,England,2,1,14,12,6,2,2.22,0.72,4,0,43,57,77,82,1,6,1,1,0,0,10,12,47,71,20,20,8,5,0,2,0,1,1,4,0.12,2.12,-0.88,0.2
+2R,06-07-2025,18:00,Stade de Tourbillon,Sion,nat,Norway,Finland,2,1,9,15,3,6,0.84,1.11,3,1,42,58,74,84,6,6,0,0,0,0,5,4,50,56,25,30,8,8,0,0,0,0,5,1,1.48,0.99,0.48,-0.01
+2R,06-07-2025,21:00,Stadion Wankdorf,Bern,art,Switzerland,Iceland,2,0,15,12,4,2,0.9,0.58,2,1,59,41,75,70,6,1,0,4,0,0,9,20,50,68,23,29,8,9,1,0,0,1,2,2,0.09,2.26,0.09,0.3
+2R,07-07-2025,18:00,Arena Thun,Thun,art,Spain,Belgium,6,2,33,4,9,3,2.99,0.75,4,2,80,20,89,61,11,1,1,2,0,0,8,7,67,38,9,39,7,12,0,1,0,0,1,3,1.29,4.19,-0.71,-1.81
+2R,07-07-2025,21:00,Stade de Gen?ve,Geneva,hyb,Portugal,Italy,1,1,4,14,1,6,0.31,1.27,0,1,57,43,80,76,4,5,2,1,1,0,13,12,41,62,29,25,8,4,0,0,0,0,5,0,1.62,0.17,0.62,-0.83
+2R,08-07-2025,18:00,St. Jakob-Park,Basel,hyb,Germany,Denmark,2,1,27,5,5,4,2.97,0.34,3,0,72,28,85,64,10,3,1,1,0,0,7,7,55,64,11,43,9,3,0,2,0,1,3,3,1.15,1.34,0.1,-0.66
+2R,08-07-2025,21:00,Allmend Stadion Luzern,Lucerne,nat,Poland,Sweden,0,3,7,22,2,7,0.23,3.83,0,7,47,53,70,76,2,7,1,1,0,0,11,15,74,57,36,17,9,5,3,1,0,0,4,2,3.77,0.23,0.77,0.23
+2R,09-07-2025,18:00,Stadion Letzigrund,Zurich,nat,England,Netherlands,4,0,17,4,6,4,2.72,0.18,5,0,52,48,79,77,4,5,0,1,0,0,8,12,59,50,15,19,6,9,0,1,0,0,1,2,0.06,2.19,0.06,-1.81
+2R,09-07-2025,21:00,Arena St.Gallen,St.Gallen,nat,France,Wales,4,1,14,6,8,4,2.57,1.11,4,1,75,25,89,63,5,3,2,2,0,0,7,8,72,59,16,28,6,4,1,0,1,2,3,4,1.45,3.66,0.46,-0.34
+3R,10-07-2025,21:00,Arena Thun,Thun,art,Norway,Iceland,4,3,15,10,7,5,1.51,2.25,1,5,61,40,81,73,11,1,2,1,1,0,6,7,67,52,23,32,4,12,0,1,0,0,2,3,2.7,2.01,-0.3,-1.99
+3R,10-07-2025,21:00,Stade de Gen?ve,Geneva,hyb,Finland,Switzerland,1,1,6,16,3,4,1.48,1.08,2,3,52,49,78,79,4,4,1,1,0,0,12,13,60,57,20,22,7,9,0,0,0,0,3,2,1.21,2.04,0.2,1.04
+3R,11-07-2025,21:00,Stade de Tourbillon,Sion,nat,Portugal,Belgium,1,2,20,13,7,4,2.35,1.98,7,3,58,42,86,77,5,2,2,2,0,0,10,14,70,56,20,41,12,7,1,2,0,0,2,6,1.16,1.78,-0.84,0.78
+3R,11-07-2025,21:00,Stadion Wankdorf,Bern,art,Italy,Spain,1,3,13,20,2,8,1.71,1.95,2,2,26,74,74,90,5,9,0,0,0,0,3,7,64,67,23,12,13,6,1,0,2,1,5,1,2.79,0.4,-0.21,-0.6
+3R,12-07-2025,21:00,Stadion Letzigrund,Zurich,nat,Sweden,Germany,4,1,13,9,6,4,3.17,0.97,5,3,49,51,82,79,6,2,0,2,0,1,12,10,56,66,24,18,9,12,0,1,0,0,3,2,2,2.79,0.49,-1.21
+3R,12-07-2025,21:00,Allmend Stadion Luzern,Lucerne,nat,Denmark,Poland,3,2,15,17,7,8,2.4,2.79,46,54,77,81,77,81,1,5,1,1,0,0,6,8,64,76,29,26,14,3,1,2,1,0,6,4,2.09,2.77,0.09,-0.23
+3R,13-07-2025,21:00,St. Jakob-Park,Basel,hyb,Netherlands,France,2,5,12,20,5,10,1.24,3.14,2,5,52,48,76,76,4,5,2,0,0,0,13,11,57,82,25,30,10,8,0,0,2,0,5,3,4.75,2.11,-0.25,1.11
+3R,13-07-2025,21:00,Arena St.Gallen,St.Gallen,nat,England,Wales,6,1,24,6,11,2,5.72,0.59,12,1,77,23,91,67,6,2,0,0,0,0,3,6,55,56,21,46,7,10,1,0,0,0,1,5,0.6,5.52,-0.4,-0.48
+Quaterfinals,16-07-2025,21:00,Stade de Gen?ve,Geneva,hyb,Norway,Italy,1,2,9,13,1,6,2.28,2.03,3,4,50,50,77,78,7,1,1,2,0,0,10,2,71,43,21,29,4,6,0,0,0,1,4,0,2.14,0.3,0.06,-0.7
+Quaterfinals,17-07-2025,21:00,Stadion Letzigrund,Zurich,nat,Sweden,England,2,2,14,18,7,4,2.04,2.5,3,3,40,60,59,74,6,6,1,2,0,0,15,18,53,48,50,32,11,7,1,2,1,1,2,5,2.06,3.74,0.06,1.74
+Quaterfinals,18-07-2025,21:00,Stadion Wankdorf,Bern,art,Spain,Switzerland,2,0,23,4,6,0,3.71,0.12,4,0,72,28,88,71,6,0,1,3,0,1,12,12,67,46,10,34,9,17,0,0,0,1,0,4,0,2.33,0,-0.45
+Quaterfinals,19-07-2025,21:00,St. Jakob-Park,Basel,hyb,France,Germany,1,1,17,7,9,2,2.02,1.13,2,1,75,25,85,52,5,2,2,4,0,1,24,26,50,44,23,48,11,14,0,0,0,0,1,8,1.24,2.58,0.24,1.58
+Semifinals,22-07-2025,21:00,Stade de Gen?ve,Geneva,hyb,England,Italy,2,1,24,11,7,5,2.92,1.12,4,2,58,42,83,76,10,3,2,3,0,0,22,9,59,85,32,73,8,10,0,0,0,1,4,5,0.88,2.42,-0.12,0.42
+Semifinals,23-07-2025,21:00,Stadion Letzigrund,Zurich,nat,Germany,Spain,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
